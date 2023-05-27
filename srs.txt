@@ -1,0 +1,12 @@
+functional requirements
+
+1. krushikendra.com first online agricultural megastore has 2000+ products
+2. It will have username of farmer with their emailid,name,phone no. for registration.
+3. It will have login id of farmers registered after their username and password saved so login id will be generated.
+4. The online store portal will have permission of farmers to give their details and ask for expert guidance.
+5. the farmers can ask for experts from agri experts by dialiing on toll free no. after registration of their farm land type,crop description.
+6. agri experts give guidance to farmers on the basis of details given to them by farmers of their crops and farm.
+7. agri experts will also help in guiding them to get knowledge of products in megastore which will be beneficial to farmers
+8. agri experts guidance helps farmers in getting what type of crops are suitable to grow in their farm and helps in giving farmers more income.
+9. the online mega store will provide these agri experts as chat facility by their login id.
+10. mega store will also have call centre to allow live interaction of farmers and agri experts which will enable the store to promote their products among farmers

@@ -1,0 +1,16 @@
+business entities
+
+1. farmers -----------------farmers with their details,phone numbers will register themselves to avail the mega store facility as these information will give mega store the permission to store information and details
+		            by getting permission to know about requirements to carry out research about what type of needs are required to promote their products.As farmers details only help store what type of products to be launched to 
+		            for farmers crop to be more productive.
+2. online agriculture 
+   mega store agriculture 
+   products               -- the products launched or having in their store will add productivity to crops when used by farmers,to know how much their crops has increased their productivity 
+							what type of products improvements needed to get their products more refine . the store also require knowledge of various types of climate ,land behaviour, and farmer knowledge
+							to act on their products to get them ready as per the need of various types of crops,farmland needs.
+3. agri experts--------------the agri experts will give impart their knowledge with online mega store platform to farmers to get required information from farmers to give suitable reply to them with knowledge ,hjow to use stores products on crops as well as
+				on land to increase farmers productivity, as a aresult also increasing sales of products of store.
+4. farms---------------------the knowledge of farmlands are must to get the knowhow of what type of agri products needed to get facilitate in helping farmers with "right product at right time and place delivered.
+5. crops---------------------crops knowledge is must to all entities to know climates knowledge and farm knowledge to give best suited guidance by agri experts to farmers as products used are only on crops to increase productivity.
+
+ 
